@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 96b431ad8bc9b7c4fb520edcbbf58c2a
+timeCreated: 1524429389
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {fileID: 1670799477822990, guid: 96de8b84dd0e00141a0e0971e356d0ba,
+      type: 2}
+  - _tripleShotPrefab: {fileID: 1232684966446488, guid: 1fba31a300ecf344784e81c8a8974db5,
+      type: 2}
+  - _shieldGameObject: {instanceID: 0}
+  - _playerExplosionsPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
